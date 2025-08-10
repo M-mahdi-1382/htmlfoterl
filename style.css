@@ -8,7 +8,7 @@ body {
   bottom: 0;
   right: 0;
   left: 0;
-  background: #255190;
+  background: #0b1829ee;
   min-height: 60px;
   display: flex;
   align-items: center;
@@ -37,16 +37,16 @@ body {
   margin-right: 5px;
 }
 .footer-download {
-  background: #fff;
+  background: #096b07;
   border-radius: 20px;
   padding: 4px 14px 4px 8px;
-  color: #2dbf50;
+  color: #fff;
   display: flex;
   align-items: center;
   font-size: 14px;
   font-weight: 700;
   margin-left: 30px;
-  box-shadow: 0 1px 7px rgba(0, 0, 0, 0.07);
+  box-shadow: 0 1px 7px #07812e;
   border: none;
   cursor: pointer;
 }
@@ -67,9 +67,9 @@ body {
   justify-content: center;
   border-radius: 50%;
   background: #fff;
-  color: #255190;
+  color: #0b1829ee;
   font-size: 20px;
-  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.06);
+  box-shadow: 0 1px 5px rgba(1, 50, 7, 0.06);
   margin-left: 3px;
   transition: background 0.2s, color 0.2s;
   cursor: pointer;
@@ -97,3 +97,4 @@ body {
     margin-top: 8px;
   }
 }
+
